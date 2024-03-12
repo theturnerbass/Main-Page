@@ -8,3 +8,4 @@ I'm Turner Bass, a current information systems and technology student at Catawba
 
 
 ### Assignment 1: [Mining the Classics with NLP](https://githubtocolab.com/theturnerbass/Main-Page/blob/main/Chapter_1_HW.ipynb): 
+### Data wrangling notebook: [Mining the Classics with NLP](https://githubtocolab.com/theturnerbass/Main-Page/blob/main/data_wrangling_exercise.ipynb): 
