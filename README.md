@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 ## About Me
 
-I'm Turner Bass, a current information systems and technology student at Catawba College and a future graduate student at Virginia Tech in the MSBA-BA program. 
+I'm Turner Bass, an information systems and technology graduate from Catawba College, and I am currently a graduate student in the MSBA-BA program at Virginia Tech. 
 
 
 ### Assignment 1: [Mining the Classics with NLP](https://githubtocolab.com/theturnerbass/Main-Page/blob/main/Chapter_1_HW.ipynb): 
